@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/therealzakarya"><img src="https://api.daily.dev/devcards/02f21572e7a84f2a8c42be60bfb2eed7.png?r=r3n" width="400" alt="Zakarya Noori's Dev Card"/></a>
+
 <!--
 **ZakaryaNoori/zakaryanoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
